@@ -6,7 +6,7 @@
 
 **Посмотреть результат:**
 
-    ```bash
+    ```
     https://geliusgelius.github.io/inline-test/
     ```
 
