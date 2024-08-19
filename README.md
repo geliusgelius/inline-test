@@ -6,7 +6,7 @@
 
 **Посмотреть результат:**
 
-    ```
+   
     https://geliusgelius.github.io/inline-test/
-    ```
+  
 
