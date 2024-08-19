@@ -1,17 +1,12 @@
 ﻿# inline-test
 
+ Inline-test - это тестовое задание на позицию Junior Верстальщик HTML5/CSS3.
+ Стек технологий: HTML5, CSS3 (SCSS), Java Script, Swiper.
 
-## Установка
 
-1. **Клонируйте репозиторий:**
-
-    ```bash
-    git clone https://github.com/geliusgelius/inline-test.git
-    ```
-
-2. **Перейдите в каталог проекта:**
+**Посмотреть результат:**
 
     ```bash
-    cd inline-test
+    https://geliusgelius.github.io/inline-test/
     ```
 
